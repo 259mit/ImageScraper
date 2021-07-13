@@ -26,5 +26,6 @@
 4. Specify Chrome Driver path
 5. Run 'ImageScraper.py'
  - Optional: Run main.py
+6. Images are saved in a directory IMAGES with pwd as the directory of Chrome Driver. Each keyword has a subdirectory within IMAGES and saves images as a .jpg file.
 
 Mithesh Ramachandran
