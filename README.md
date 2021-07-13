@@ -12,8 +12,9 @@
 2. Install Chrome Driver for your Chrome version
 -   To check Chrome version:
 -   Chrome>More(three vertical dots on top right)>Help>About Google Chrome
--   Install driver for your OS
--   https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.101/
+-   For MAC OS users with Chrome v91: Install driver from the repository
+-   Else: Install driver for your OS: 
+-    https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.101/
 
 3. Install Requirements from 'requirements.txt'
 
